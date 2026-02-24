@@ -1,0 +1,48 @@
+{
+  "seller": [
+    {
+      "id": "5d5d",
+      "name": "ranjan",
+      "password": "abc123",
+      "email": "ranjan@gmail.com"
+    },
+    {
+      "id": "edfb",
+      "name": "John",
+      "password": "abc123",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "94d9",
+      "name": "peter",
+      "password": "abc123",
+      "email": "peter@gmail.com"
+    },
+    {
+      "id": "685c",
+      "name": "Bruce",
+      "password": "abc123",
+      "email": "bruce@gmail,com"
+    }
+  ],
+  "products": [
+    {
+      "id": "a006",
+      "name": "samsung m40",
+      "price": 20000,
+      "color": "Black",
+      "category": "Mobile",
+      "description": "A Samsung Product",
+      "image": "https://unsplash.com/photos/a-close-up-of-a-cell-phone-near-a-keyboard-lkhz29AXTTc"
+    },
+    {
+      "id": "c406",
+      "name": "Iphone 14",
+      "price": 90000,
+      "color": "Black",
+      "category": "Iphone",
+      "description": "An Apple Product",
+      "image": "https://unsplash.com/photos/a-close-up-of-a-cell-phone-on-a-table-PAUpwa_llTE"
+    }
+  ]
+}
